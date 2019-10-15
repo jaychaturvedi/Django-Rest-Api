@@ -1,7 +1,7 @@
 clone code from git hub
 
 run "python manage.py runserver" in command line
-open "http://localhost:8000/api/auth/login/" in browser
+open "http://localhost:8000/admin/" in browser
 
 provide credentials as:
     Username : admin
